@@ -34,7 +34,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Amit
 - 👯 Open to collaborate on projects that are using React.
 - 🌱 I’m currently learning React and Competitive Programming.
 - 🥅 2021 Goals: To get strong on concepts of DSA and build more projects.
-- 📫 How to reach me: https://www.linkedin.com/in/ankitgoyal8057/
+- 📫 How to reach me: https://www.linkedin.com/in/ankit80570/
 - 😄 Pronouns: He/Him
 
  ### ⭐ GitHub Stats
