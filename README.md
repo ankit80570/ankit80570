@@ -1,6 +1,6 @@
 ## Hi, I am Ankit Goyal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ### Glad to see you here!  🤩  &nbsp;
-I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Amity University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to do competitive programming💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a Final year student pursuing Bachelors's in Computer Science 🎓 from Amity University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓 skills.
 
 
 ### Languages and Tools:
@@ -32,7 +32,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Amit
 
 ⚡ Fun Facts:
 - 👯 Open to collaborate on projects that are using React.
-- 🌱 I’m currently learning React and Competitive Programming.
+- 🌱 I’m currently learning React.
 - 🥅 2021 Goals: To get strong on concepts of DSA and build more projects.
 - 📫 How to reach me: https://www.linkedin.com/in/ankit80570/
 - 😄 Pronouns: He/Him
