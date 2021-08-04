@@ -40,7 +40,7 @@
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/ankit80570"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ankitgoyal8057/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/ankit80570/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/__ankitgoyal__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/ankitgoyal8057"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/ankit80570"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
