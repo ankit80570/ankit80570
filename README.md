@@ -1,13 +1,13 @@
 ## Hi, I am Ankit Goyal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ### Glad to see you here!  🤩  &nbsp;
+- 💻 Software Engineer [**Commvault**](https://github.com/Commvault)
 - 👯 Open to collaborate on projects that are using React.
 - 🌱 I’m currently learning React.
-- 🥅 2021 Goals: To get strong on concepts of DSA and build more projects.
+<!-- - 🥅 2021 Goals: To get strong on concepts of DSA and build more projects. -->
 - 📫 How to reach me: https://www.linkedin.com/in/ankit80570/
 - 😄 Pronouns: He/Him
 
 ### Languages and Tools:
-
 <p align="center">
 
   <div align="center">
@@ -25,8 +25,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> -->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
  </div>
 </p>
